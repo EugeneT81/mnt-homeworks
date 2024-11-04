@@ -1,5 +1,25 @@
 ---
+#clickhouse:
+#  hosts:
+#    clickhouse-01:
+#      ansible_host: 192.168.1.168
+
+
+
 clickhouse:
   hosts:
     clickhouse-01:
-      ansible_host: <IP_here>
+      ansible_connection: ssh
+      ansible_ssh_user: root
+      ansible_host: 192.168.1.168
+      ansible_private_key_file: ~/.ssh/id_rsa
+
+
+vector:
+  hosts:
+    vector-01:
+      ansible_connection: ssh
+      ansible_ssh_user: root
+      ansible_host: 192.168.1.168
+      ansible_private_key_file: ~/.ssh/id_rsa
+
