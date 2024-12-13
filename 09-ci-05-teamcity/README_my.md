@@ -33,6 +33,8 @@
 
 6.В pom.xml необходимо поменять ссылки на репозиторий и nexus.
 
+![alt text](pom.png)
+
 ![alt text](Nexus.png)
 
 
