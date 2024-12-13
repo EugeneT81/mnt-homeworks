@@ -10,4 +10,4 @@
 
 Авторизация агента:
 
-![alt text](nexus_ansible.png)
+![alt text](TC_Authorized.png)
