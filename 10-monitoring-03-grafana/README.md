@@ -78,9 +78,27 @@ Datasource Prometheus:
 
 2.Решение 
 
+![alt text](CPULA.png)
+
+![alt text](Memory.png)
+
+
+![alt text](FS.png)
+
+
+
+
 
 3.Решение 
 
+Dashboard:
+
+![alt text](Dashboard.png)
+
+
+
 
 4.Решение 
+
+https://github.com/EugeneT81/mnt-homeworks/blob/1f08fbb3e9e8d3f16c1fb3534a8ea1b8ae71e404/10-monitoring-03-grafana/JSONModel.txt
 
