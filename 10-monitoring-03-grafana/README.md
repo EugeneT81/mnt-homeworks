@@ -60,3 +60,27 @@
 Выполненное домашнее задание пришлите в виде ссылки на .md-файл в вашем репозитории.
 
 ---
+
+
+
+1.Решение 
+Запустил docker compose up -d:
+
+
+![alt text](docker_ps.png)
+
+
+Datasource Prometheus:
+
+
+![alt text](prometheus.png)
+
+
+2.Решение 
+
+
+3.Решение 
+
+
+4.Решение 
+
