@@ -61,4 +61,29 @@ Filebeat следует сконфигурировать для отправки
 
 ---
 
+Задание 1
+
+Запуск docker compose up -d:
+
+
+![alt text](<docker up.png>)
  
+
+ Состояние контейнеров:
+
+ ![alt text](<docker ps.png>)
+
+
+
+ Интерфейс kibana:
+
+ ![alt text](kibana.png)
+
+
+
+Задание 2
+
+Создал index-patterns. Отображение логов в Discover:
+
+
+![alt text](Discover.png)
