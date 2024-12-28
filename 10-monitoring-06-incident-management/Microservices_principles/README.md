@@ -20,11 +20,11 @@
 
 | Брокер сообщений | Кластеризация | Хранение сообщений | Скорость работы | Поддержка форматов сообщений | Разделение прав доступа | Простота эксплуатации |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| RabbitMQ | Да | Да | Средняя | JSON, XML, AMQP, MQTT | Да | Высокая |
-| Kafka | Да | Да | Высокая | JSON, Avro, Protobuf, Binary | Да | Средняя |
-| Beanstalk | Нет | Нет | Средняя | JSON, Strings | Нет | Средняя |
-| Redis | Да | Нет | Высокая | JSON, Strings, Lists, Sets, Hashes | Нет | Высокая |
-| ActiveMQ | Да | Да | Средняя | JSON, XML, SOAP, STOMP | Да | Средняя |
+| **RabbitMQ** | Да | Да | Средняя | JSON, XML, AMQP, MQTT | Да | Высокая |
+| **Kafka** | Да | Да | Высокая | JSON, Avro, Protobuf, Binary | Да | Средняя |
+| **Beanstalk** | Нет | Нет | Средняя | JSON, Strings | Нет | Средняя |
+| **Redis** | Да | Нет | Высокая | JSON, Strings, Lists, Sets, Hashes | Нет | Высокая |
+| **ActiveMQ** | Да | Да | Средняя | JSON, XML, SOAP, STOMP | Да | Средняя |
 
 
 
