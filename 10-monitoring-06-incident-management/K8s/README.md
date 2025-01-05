@@ -27,3 +27,7 @@
 
 ![alt text](9.png)
 
+
+6.
+
+![alt text](10.png)
