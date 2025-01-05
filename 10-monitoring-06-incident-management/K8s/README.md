@@ -19,5 +19,11 @@
 ![alt text](4.png)
 
 
-7.
-8.
+5.config файл на клиенте:
+
+![alt text](8.png)
+
+5.Вывод "kubectl get nodes" на клиенте:
+
+![alt text](9.png)
+
