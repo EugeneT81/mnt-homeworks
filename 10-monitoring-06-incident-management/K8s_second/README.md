@@ -3,25 +3,29 @@
 
 ![alt text](17.png)
 
+2.Port-forwarding:
 
-2.Вывод браузера:
-
-
-![alt text](12.png)
+![alt text](19.png)
 
 
-3.Pods, Services:
+3.Вывод браузера:
+
+
+![alt text](18.png)
+
+
+4.Pods, Services:
 
 ![alt text](14.png)
 
 
-4. Port-forwarding:
+5. Port-forwarding:
 
 
 ![alt text](16.png)
 
 
-5.Вывод браузера:
+6.Вывод браузера:
 
 
 ![alt text](15.png)
