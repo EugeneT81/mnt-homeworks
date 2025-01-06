@@ -1,7 +1,7 @@
 
 1.Pod:
 
-![alt text](11.png)
+![alt text](17.png)
 
 
 2.Вывод браузера:
