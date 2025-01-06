@@ -12,13 +12,13 @@
 
 3.Pods, Services:
 
-![alt text](13.png)
+![alt text](14.png)
 
 
 4. Port-forwarding:
 
-![alt text](14.png)
 
+![alt text](16.png)
 
 
 5.Вывод браузера:
